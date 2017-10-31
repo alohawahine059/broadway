@@ -1,1 +1,51 @@
 /*Carla Gay Broadway Project*/
+html {
+	font-family: Helvetica;
+	text-align: center;
+}
+header, .designer h3:first-of-type {
+	background-image: url(../images/the-flatiron-building.png);
+}
+h1 {
+	font-size: 70px;
+	font-weight: bold;
+	color: #FFF;
+}
+nav li, footer li {
+	list-style: none;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: underline;
+}
+nav li {
+	padding-top: 10px;
+}
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+}
+.designer h3:first-of-type {
+	font-size: 23px;
+	font-weight: bold;
+	color: #FFF;
+}
+.designer h3 {
+	font-size: 23px;
+	font-weight: bold;
+}
+.designer p {
+	font-size: 14px;
+}
+footer {
+	background-color: dimgray;
+	text-align: left;
+}
+footer p {
+	font-size: 11px;
+	color: #FFF;
+	display: inline;
+}
+footer ul, footer li {
+	display: inline;
+}
